@@ -1,10 +1,5 @@
 # CLINICAL-TRIALS
 
-#LONGITUDINAL DATA LEASPY ALZHEIMER DISEASE
-
-#TP1 – TP2 - TP3
-We are using several linear regression model to see which one is the most suitable to describe the evolution of a disease compared to the model
-used using the  librairry Leaspy predict the metabolomical activity of the putamen, a brain region that allowed tto monitor the advandcement of the Alzheimer's disease.
 
 
 #MULTIVARIATE MODEL  CANCER
